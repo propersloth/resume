@@ -1,6 +1,6 @@
-<div class="contact">sean.c.odonnell@gmail.com</p>
-<div class="contact">702.525.1701</p>
-<div class="contact">901 Fremont St. #238 Las Vegas, NV 89101</p>
+<div class="contact">sean.c.odonnell@gmail.com</div>
+<div class="contact">702.525.1701</div>
+<div class="contact">901 Fremont St. #238 Las Vegas, NV 89101</div>
 
 # Summary
 
