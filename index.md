@@ -11,7 +11,7 @@ Seasoned IT professional with a broad background in hardware and software system
 <div class="column-header-left">Architecture</div>
 <ul>
   <li>Microservice-based solutions using Azure Functions</li>
-  <li>Event-based infrastructures using Azure EventHub, EventGrid and RabbitMQ<li>
+  <li>Event-based infrastructures using Azure EventHub, EventGrid and RabbitMQ</li>
   <li>Multi-region application balancing and high-availability</li>
   <li>Dynamic horizontal and vertical scaling using Azure</li>
   <li>Data tier design with MySQL, PostgreSQL, Cosmos, Redis and Solr</li>
