@@ -14,3 +14,7 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 ## Skills
 
 ### System Administration
+
+* Linux, Windows system administration
+* Bash, Zsh, Perl, PowerShell scripting
+* 
