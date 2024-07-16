@@ -9,8 +9,8 @@ Seasoned IT professional with a broad background in hardware and software system
 
 ## Competencies
 
-<div class="row>
-  <div class="column>
+<div class="row">
+  <div class="column">
   
 Architecture
   * Multi-region application balancing and high-availability
