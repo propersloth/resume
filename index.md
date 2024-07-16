@@ -9,39 +9,52 @@ Seasoned IT professional with a broad background in hardware and software system
 
 ## Competencies
 
-### Administration
+<div class="row>
+  <div class="column>
+  
+Architecture
+  * Multi-region application balancing and high-availability
+  * Dynamic horizontal and vertical scaling using
+  * MySQL, PostgreSQL, Cosmos, Redis and Solr
+  * OpenAPI, Swagger, UML
 
-* Linux, Windows system administration
-* Bash, Zsh, Perl, PowerShell scripting
-* TCP/IP Network planning, administration and analysis
-* Distributed authentication with LDAP, AD and OpenAuth
-* Container-based infrastructure with Docker
-* Virtualization using Azure
-* Apache httpd, Tomcat, Ngnix httpd administration
+Development
+  * Java, Javascript, Typescript, Python, C/C++
+  * VSCode, IntelliJ, Maven, cmake
+  * Functional, Object-oriented and Data-oriented software design
+  * Dependency and feature injection
+  * Spring, Guice, Apache Commons, Boost, STL
+  * Copilot, ChatGPT
 
-### Operations
+  </div>
+  <div class="column>
 
-* Continuous Integration and Deployment
-* Github Actions, Azure DevOps
-* Bicep, Azure Resource Templates
-* SonarCloud, JMeter
-* Jira, Confluence, Opsgenie
+Administration
+  * Linux, Windows system administration
+  * Bash, Zsh, Perl, PowerShell scripting
+  * TCP/IP Network planning, administration and analysis
+  * Distributed authentication with LDAP, AD and OpenAuth
+  * Container-based infrastructure with Docker
+  * Virtualization using Azure
+  * Apache httpd, Tomcat, Ngnix httpd administration
 
-### Development
+Operations
+  * Continuous Integration and Deployment
+  * Github Actions, Azure DevOps
+  * Bicep, Azure Resource Templates
+  * SonarCloud, JMeter
+  * Jira, Confluence, Opsgenie
 
-* Java, Javascript, Typescript, Python, C/C++
-* VSCode, IntelliJ, Maven, cmake
-* Functional, Object-oriented and Data-oriented software design
-* Dependency and feature injection
-* Spring, Guice, Apache Commons, Boost, STL
-* Copilot, ChatGPT
+  </div>
+</div>
 
-### Architecture
 
-* Multi-region application balancing and high-availability
-* Dynamic horizontal and vertical scaling using
-* MySQL, PostgreSQL, Cosmos, Redis and Solr
-* OpenAPI, Swagger, UML
+
+
+
+
+
+
 
 # Experience
 
