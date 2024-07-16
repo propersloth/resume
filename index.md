@@ -1,8 +1,8 @@
-sean.c.odonnell@gmail.com
+<p align="right">sean.c.odonnell@gmail.com</p>
 
-702.525.1701
+<p align="right">702.525.1701</p>
 
-901 Fremont St. #238 Las Vegas, NV 89101
+<p align="right">901 Fremont St. #238 Las Vegas, NV 89101</p>
 
 # Summary
 
