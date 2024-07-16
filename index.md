@@ -5,7 +5,7 @@ Seasoned IT professional with a broad background in hardware and software system
 
 ## Certifications
 
-Microsoft Azure Administrator
+![assets/azure-administrator-associate.png](Azure Administrator Associate)
 
 ## Skills
 
