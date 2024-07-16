@@ -11,39 +11,48 @@ Seasoned IT professional with a broad background in hardware and software system
 
 <div class="row">
   <div class="column">
-  
+</ul>
+
 Architecture
-  * Multi-region application balancing and high-availability
-  * Dynamic horizontal and vertical scaling using
-  * MySQL, PostgreSQL, Cosmos, Redis and Solr
-  * OpenAPI, Swagger, UML
+<ul>
+  <li>Multi-region application balancing and high-availability</li>
+  <li>Dynamic horizontal and vertical scaling using</li>
+  <li>MySQL, PostgreSQL, Cosmos, Redis and Solr</li>
+  <li>OpenAPI, Swagger, UML</li>
+</ul>
 
 Development
-  * Java, Javascript, Typescript, Python, C/C++
-  * VSCode, IntelliJ, Maven, cmake
-  * Functional, Object-oriented and Data-oriented software design
-  * Dependency and feature injection
-  * Spring, Guice, Apache Commons, Boost, STL
-  * Copilot, ChatGPT
+<ul>
+  <li>Java, Javascript, Typescript, Python, C/C++</li>
+  <li>VSCode, IntelliJ, Maven, cmake</li>
+  <li>Functional, Object-oriented and Data-oriented software design</li>
+  <li>Dependency and feature injection</li>
+  <li>Spring, Guice, Apache Commons, Boost, STL</li>
+  <li>Copilot, ChatGPT</li>
+</ul>
 
   </div>
   <div class="column">
 
 Administration
-  * Linux, Windows system administration
-  * Bash, Zsh, Perl, PowerShell scripting
-  * TCP/IP Network planning, administration and analysis
-  * Distributed authentication with LDAP, AD and OpenAuth
-  * Container-based infrastructure with Docker
-  * Virtualization using Azure
-  * Apache httpd, Tomcat, Ngnix httpd administration
+<ul>
+  <li>Linux, Windows system administration</li>
+  <li>Bash, Zsh, Perl, PowerShell scripting</li>
+  <li>TCP/IP Network planning, administration and analysis</li>
+  <li>Distributed authentication with LDAP, AD and OpenAuth</li>
+  <li>Container-based infrastructure with Docker</li>
+  <li>Virtualization using Azure</li>
+  <li>Apache httpd, Tomcat, Ngnix httpd administration</li>
+</ul>
 
 Operations
-  * Continuous Integration and Deployment
-  * Github Actions, Azure DevOps
-  * Bicep, Azure Resource Templates
-  * SonarCloud, JMeter
-  * Jira, Confluence, Opsgenie
+<ul>
+  <li>Continuous Integration and Deployment</li>
+  <li>Github Actions, Azure DevOps</li>
+  <li>Bicep, Azure Resource Templates</li>
+  <li>SonarCloud, JMeter</li>
+  <li>Jira, Confluence, Opsgenie</li>
+</ul>
 
   </div>
 </div>
