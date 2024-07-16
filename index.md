@@ -5,7 +5,7 @@ Seasoned IT professional with a broad background in hardware and software system
 
 ## Certifications
 
-<h2><img src="assets/azure-administrator-associate.png" height="160"></h2>
+<h2><img src="assets/azure-administrator-associate.png" height="100"></h2>
 
 ## Competencies
 
