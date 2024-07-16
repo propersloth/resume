@@ -1,14 +1,17 @@
 sean.c.odonnell@gmail.com
 
-(702) 525-1701
+702.525.1701
 
 901 Fremont St. #238 Las Vegas, NV 89101
 
 # Summary
 
-Extensive career spanning a wide array of hardware and software systems over multiple technology cycles, from mainframes to cloud-based computing. Diverse experience in many business environments in both the public and private sectors, ranging from small, lean startups to the largest global Fortune 50 corporations. Proven track record of success in high-pressure, high-stakes production environments under rapidly changing technology and business directives.
+Extensive career spanning a wide array of hardware and software systems over multiple technology cycles, from mainframes to cloud-based computing. Diverse experience in many business environments in both the public and private sectors, ranging from small, lean startups to the largest global Fortune 50 corporations. Proven track record of success in high-stakes production environments under rapidly changing technology and business directives. Experienced in agile development methods, iteratively adapting to changing requirements and priorities. Hands-on experience with virtually all roles required in an enterprise IT organization, including system administration, quality assurance, software development, development operations, and solutions architecture.
 
-Deep familiarity with an extensive suite of popular programming languages, operating systems, libraries, and tools. Experienced in agile development methods, iteratively adapting to changing requirements and priorities. Hands-on experience with virtually all roles required in an enterprise IT organization, including system administration, quality assurance, software development, development operations, and solutions architecture.
+Work Ethic
+Loves hard problems
+Compulsive problem solver
+Experienced and determined debugger
 
 # Certifications
 
