@@ -15,7 +15,7 @@ Seasoned IT professional with a broad background in hardware and software system
 <div class="row">
 <div class="column">
 
-<h3>Architecture</h3>
+<div class="column-header">Architecture</div>
 <ul>
   <li>Multi-region application balancing and high-availability</li>
   <li>Dynamic horizontal and vertical scaling using</li>
