@@ -19,15 +19,13 @@ Seasoned IT professional with a broad background in hardware and software system
   <li>IAAS/PAAS/SAAS-oriented solution design</li>
 </ul>
 
-<div class="column-header-left">Administration</div>
+<div class="column-header-left">Operations</div>
 <ul>
-  <li>Linux, Windows system administration</li>
-  <li>Bash, Zsh, Perl, PowerShell scripting</li>
-  <li>Container-based infrastructure with Docker</li>
-  <li>Virtual machines using Azure and VMWare</li>
-  <li>Apache httpd, Tomcat, Ngnix</li>
-  <li>LDAP, Active Directory, OpenAuth</li>
-  <li>Network design, administration and support</li>
+  <li>Continuous Integration and Deployment</li>
+  <li>Github Actions, Azure DevOps</li>
+  <li>Bicep, Azure Resource Templates</li>
+  <li>SonarCloud, JMeter</li>
+  <li>Jira, Confluence, Opsgenie</li>
 </ul>
 
 </div>
@@ -43,13 +41,15 @@ Seasoned IT professional with a broad background in hardware and software system
   <li>Copilot, ChatGPT for code generation and productivity</li>
 </ul>
 
-<div class="column-header-right">Operations</div>
+<div class="column-header-right">Administration</div>
 <ul>
-  <li>Continuous Integration and Deployment</li>
-  <li>Github Actions, Azure DevOps</li>
-  <li>Bicep, Azure Resource Templates</li>
-  <li>SonarCloud, JMeter</li>
-  <li>Jira, Confluence, Opsgenie</li>
+  <li>Linux, Windows system administration</li>
+  <li>Bash, Zsh, Perl, PowerShell scripting</li>
+  <li>Container-based infrastructure with Docker</li>
+  <li>Virtual machines using Azure and VMWare</li>
+  <li>Apache httpd, Tomcat, Ngnix</li>
+  <li>LDAP, Active Directory, OpenAuth</li>
+  <li>Network design, administration and support</li>
 </ul>
 
 </div>
