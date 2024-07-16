@@ -10,12 +10,13 @@ Seasoned IT professional with a broad background in hardware and software system
 
 <div class="column-header-left">Architecture</div>
 <ul>
-  <li>Microservice-based solutions using Azure Functions</li>
+  <li>Microservice-based solutions using Azure Functions and NodeJS</li>
   <li>Event-based infrastructures using Azure EventHub, EventGrid and RabbitMQ</li>
   <li>Multi-region application balancing and high-availability</li>
-  <li>Dynamic horizontal and vertical scaling using Azure</li>
+  <li>Dynamic horizontal and vertical scaling</li>
   <li>Data tier design with MySQL, PostgreSQL, Cosmos, Redis and Solr</li>
-  <li>API design and analysis using OpenAPI, Swagger</li>
+  <li>API design and analysis using OpenAPI, Swagger and Apigee X</li>
+  <li>IAAS/PAAS/SAAS-oriented solution design</li>
 </ul>
 
 <div class="column-header-left">Administration</div>
@@ -23,8 +24,10 @@ Seasoned IT professional with a broad background in hardware and software system
   <li>Linux, Windows system administration</li>
   <li>Bash, Zsh, Perl, PowerShell scripting</li>
   <li>Container-based infrastructure with Docker</li>
-  <li>Virtual machines and computing pools wiht Azure</li>
-  <li>Apache httpd, Tomcat, Ngnix administration</li>
+  <li>Virtual machines using Azure and VMWare</li>
+  <li>Apache httpd, Tomcat, Ngnix</li>
+  <li>LDAP, Active Directory, OpenAuth</li>
+  <li>Network design, administration and support</li>
 </ul>
 
 </div>
