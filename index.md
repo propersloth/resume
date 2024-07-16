@@ -1,6 +1,3 @@
-
-# Sean Corbett O'Donnell
-
 sean.c.odonnell@gmail.com
 
 (702) 525-1701
