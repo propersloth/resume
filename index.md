@@ -9,6 +9,9 @@ Seasoned IT professional with a broad background in hardware and software system
 
 ## Competencies
 
+<div class="row">
+<div class="column">
+
 <div class="center"><h3>Architecture</h3></div>
 <ul>
   <li>Multi-region application balancing and high-availability</li>
@@ -27,10 +30,10 @@ Seasoned IT professional with a broad background in hardware and software system
   <li>Copilot, ChatGPT</li>
 </ul>
 
-  </div>
-  <div class="column">
+</div>
+<div class="column">
 
-<div class="center"><h3>Administration</h3></div>
+<h3>Administration</h3></div>
 <ul>
   <li>Linux, Windows system administration</li>
   <li>Bash, Zsh, Perl, PowerShell scripting</li>
@@ -50,7 +53,7 @@ Seasoned IT professional with a broad background in hardware and software system
   <li>Jira, Confluence, Opsgenie</li>
 </ul>
 
-  </div>
+</div>
 </div>
 
 
