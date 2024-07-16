@@ -11,6 +11,13 @@ h2 {
     text-align: center;
 }
 
+img .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 div .left-column {
     float: left;
     box-sizing: border-box;
