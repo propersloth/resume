@@ -12,7 +12,7 @@ Seasoned IT professional with a broad background in hardware and software system
 <div class="row">
 <div class="column">
 
-<div class="center"><h3>Architecture</h3></div>
+<h3>Architecture</h3>
 <ul>
   <li>Multi-region application balancing and high-availability</li>
   <li>Dynamic horizontal and vertical scaling using</li>
@@ -20,7 +20,7 @@ Seasoned IT professional with a broad background in hardware and software system
   <li>OpenAPI, Swagger, UML</li>
 </ul>
 
-<div class="center"><h3>Development</h3></div>
+<h3>Development</h3>
 <ul>
   <li>Java, Javascript, Typescript, Python, C/C++</li>
   <li>VSCode, IntelliJ, Maven, cmake</li>
@@ -33,7 +33,7 @@ Seasoned IT professional with a broad background in hardware and software system
 </div>
 <div class="column">
 
-<h3>Administration</h3></div>
+<h3>Administration</h3>
 <ul>
   <li>Linux, Windows system administration</li>
   <li>Bash, Zsh, Perl, PowerShell scripting</li>
@@ -44,7 +44,7 @@ Seasoned IT professional with a broad background in hardware and software system
   <li>Apache httpd, Tomcat, Ngnix httpd administration</li>
 </ul>
 
-<div class="center"><h3>Operations</h3></div>
+<h3>Operations</h3>
 <ul>
   <li>Continuous Integration and Deployment</li>
   <li>Github Actions, Azure DevOps</li>
