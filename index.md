@@ -13,7 +13,7 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 
 ### Certifications
 
-* Microsoft Azure Certified Administrator
+* Microsoft Azure Administrator
 
 ### Skills
 
@@ -32,3 +32,13 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 * Azure DevOps
 * SonarCloud
 * JMeter
+
+#### Development
+
+* Java, Javascript, Typescript, Python, C/C++
+* VSCode, IntelliJ
+* Maven, cmake
+
+#### Design
+
+#### Architecture 
