@@ -33,11 +33,21 @@ div .center {
   clear: both;
 }
 
-.column-header {
+.column-header-left {
     color: #fff;
     text-align: center;
     background-color: #159957;
-    background-image: linear-gradient(120deg, #155799, #159957);
+    background-image: linear-gradient(120deg, #156d82, #157e72);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* 1386 */
+.column-header-right {
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #158e61, #157d72);
     padding-left: 10px;
     padding-right: 10px;
 }
