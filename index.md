@@ -35,7 +35,7 @@ Seasoned IT professional with a broad background in hardware and software system
   <li>Functional, Object-oriented and Data-oriented software design</li>
   <li>Java, Javascript, Typescript, Python, C/C++</li>
   <li>VSCode, IntelliJ, Maven, cmake, Postman, git</li>
-  <li>Dependency and feature injectionusing Spring, Guice
+  <li>Dependency and feature injectionusing Spring, Guice</li>
   <li>Standard libraries like Apache Commons, Spring, Boost, STL</li>
   <li>Copilot, ChatGPT for code generation and productivity</li>
 </ul>
