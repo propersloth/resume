@@ -2,13 +2,13 @@
 
 Seasoned IT professional with a broad background in hardware and software systems, spanning from mainframe to cloud-based computing. Experienced in both public and private sectors, including startups and Fortune 50 companies across various industries like finance, manufacturing, legal services, and hospitality. Proven success in dynamic, global IT environments with complex requirements and constraints. Comprehensive operational insight from roles in system administration, quality assurance, software development, DevOps, and solutions architecture. Committed team player with a strong work ethic, prioritizing team success and productivity.
 
-# Certifications
+## Certifications
 
 * Microsoft Azure Administrator
 
-# Skills
+## Skills
 
-## Administration
+### Administration
 
 * Linux, Windows system administration
 * Bash, Zsh, Perl, PowerShell scripting
@@ -18,7 +18,7 @@ Seasoned IT professional with a broad background in hardware and software system
 * Virtualization using Azure
 * Apache httpd, Tomcat, Ngnix httpd administration
 
-## Operations
+### Operations
 
 * Continuous Integration and Deployment
 * Github Actions, Azure DevOps
@@ -35,14 +35,14 @@ Seasoned IT professional with a broad background in hardware and software system
 * Spring, Guice, Apache Commons, Boost, STL
 * Copilot, ChatGPT
 
-## Architecture
+### Architecture
 
 * Multi-region application balancing and high-availability
 * Dynamic horizontal and vertical scaling using
 * MySQL, PostgreSQL, Cosmos, Redis and Solr
 * OpenAPI, Swagger, UML
 
-## Experience
+# Experience
 
 ## MGM Resorts International
 
