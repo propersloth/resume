@@ -10,21 +10,20 @@ Seasoned IT professional with a broad background in hardware and software system
 
 <div class="column-header-left">Architecture</div>
 <ul>
+  <li>Function-oriented 
   <li>Multi-region application balancing and high-availability</li>
   <li>Dynamic horizontal and vertical scaling using</li>
-  <li>MySQL, PostgreSQL, Cosmos, Redis and Solr</li>
-  <li>OpenAPI, Swagger, UML</li>
+  <li>Data tier design with MySQL, PostgreSQL, Cosmos, Redis and Solr</li>
+  <li>API design and analysis using OpenAPI, Swagger</li>
 </ul>
 
 <div class="column-header-left">Administration</div>
 <ul>
   <li>Linux, Windows system administration</li>
   <li>Bash, Zsh, Perl, PowerShell scripting</li>
-  <li>TCP/IP Network planning, administration and analysis</li>
-  <li>Distributed authentication with LDAP, AD and OpenAuth</li>
   <li>Container-based infrastructure with Docker</li>
-  <li>Virtualization using Azure</li>
-  <li>Apache httpd, Tomcat, Ngnix httpd administration</li>
+  <li>Virtual machines and computing pools wiht Azure</li>
+  <li>Apache httpd, Tomcat, Ngnix administration</li>
 </ul>
 
 </div>
@@ -32,12 +31,12 @@ Seasoned IT professional with a broad background in hardware and software system
 
 <div class="column-header-right">Development</div>
 <ul>
-  <li>Java, Javascript, Typescript, Python, C/C++</li>
-  <li>VSCode, IntelliJ, Maven, cmake</li>
   <li>Functional, Object-oriented and Data-oriented software design</li>
-  <li>Dependency and feature injection</li>
-  <li>Spring, Guice, Apache Commons, Boost, STL</li>
-  <li>Copilot, ChatGPT</li>
+  <li>Java, Javascript, Typescript, Python, C/C++</li>
+  <li>VSCode, IntelliJ, Maven, cmake, Postman, git</li>
+  <li>Dependency and feature injectionusing Spring, Guice
+  <li>Standard libraries like Apache Commons, Spring, Boost, STL</li>
+  <li>Copilot, ChatGPT for code generation and productivity</li>
 </ul>
 
 <div class="column-header-right">Operations</div>
