@@ -1,3 +1,9 @@
+sean.c.odonnell@gmail.com
+
+702.525.1701
+
+901 Fremont St. #238 Las Vegas, NV 89101
+
 # Summary
 
 Seasoned IT professional with a broad background in hardware and software systems, spanning from mainframe to cloud-based computing. Experienced in both public and private sectors, including startups and Fortune 50 companies across various industries like finance, manufacturing, legal services, and hospitality. Proven success in dynamic, global IT environments with complex requirements and constraints. Comprehensive operational insight from roles in system administration, quality assurance, software development, DevOps, and solutions architecture. Committed team player with a strong work ethic, prioritizing team success and productivity.
