@@ -21,24 +21,35 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 
 * Linux, Windows system administration
 * Bash, Zsh, Perl, PowerShell scripting
-* Network routing and configuration
-* Distributed authentication LDAP/AD
-* Virtualization and Continerization
+* TCP/IP Network planning, administration and analysis
+* Distributed authentication with LDAP and AD
+* Container-based infrastructure with Docker
+* Apache, Ngnix httpd administration
 
 #### DevOps
 
 * Continuous Integration and Deployment
 * Github Actions
 * Azure DevOps
-* SonarCloud
-* JMeter
+* Bicep, Azure Resource Templates
+* SonarCloud, JMeter
 
 #### Development
 
 * Java, Javascript, Typescript, Python, C/C++
 * VSCode, IntelliJ
 * Maven, cmake
+* Spring
 
 #### Design
 
-#### Architecture 
+#### Architecture
+* Multi-region application balancing and high-availability
+* Dynamic horizontal and vertical scaling using
+* MySQL, PostgreSQL, Cosmos, Redis and Solr
+
+### Professional History
+
+#### MGM Resorts International
+
+Senior Software Developer
