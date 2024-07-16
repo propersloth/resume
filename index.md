@@ -1,10 +1,6 @@
 # Summary
 
-* Extensive career over a wide array of hardware and software systems and multiple technology cycles, spanning the eras of mainframe to cloud-based computing.
-* Diverse professional experience in both the public and private sectors, including small startups to the largest global Fortune 50 corporations across multiple verticals such as finance, manufacturing, legal services and hospitality.
-* Proven track record of success in high-stakes, global-scale IT environments with rapidly changing requirements under challenging real-world constraints. 
-* Holistic operational perspective having filled most essential roles in an enterprise IT organization, including: system administration, quality assurance, software development, development operations, and solutions architecture.
-* Dedicated team member with a strong work ethic who can be relied upon to put team success and productivity above pride or personalities.
+Seasoned IT professional with a broad background in hardware and software systems, spanning from mainframe to cloud-based computing. Experienced in both public and private sectors, including startups and Fortune 50 companies across various industries like finance, manufacturing, legal services, and hospitality. Proven success in dynamic, global IT environments with complex requirements and constraints. Comprehensive operational insight from roles in system administration, quality assurance, software development, DevOps, and solutions architecture. Committed team player with a strong work ethic, prioritizing team success and productivity.
 
 # Certifications
 
