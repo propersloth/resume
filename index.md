@@ -43,8 +43,6 @@ Microsoft Azure Administrator
 * MySQL, PostgreSQL, Cosmos, Redis and Solr
 * OpenAPI, Swagger, UML
 
-</div>
-
 # Experience
 
 ## MGM Resorts International
