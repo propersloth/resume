@@ -6,8 +6,8 @@ Seasoned IT professional with a broad background in hardware and software system
 ## Professional Certifications
 
 <h3>
-  <img class="certification-logo" src="assets/azure-administrator-associate.png">
-  <img class="certification-logo" src="assets/azure-solutions-architect-expert.png">
+  <img class="certification-logo-left" src="assets/azure-administrator-associate.png">
+  <img class="certification-logo-right" src="assets/azure-solutions-architect-expert.png">
 </h3>
 
 ## Core Competencies
