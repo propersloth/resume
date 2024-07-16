@@ -20,19 +20,6 @@ Seasoned IT professional with a broad background in hardware and software system
   <li>OpenAPI, Swagger, UML</li>
 </ul>
 
-<h3>Development</h3>
-<ul>
-  <li>Java, Javascript, Typescript, Python, C/C++</li>
-  <li>VSCode, IntelliJ, Maven, cmake</li>
-  <li>Functional, Object-oriented and Data-oriented software design</li>
-  <li>Dependency and feature injection</li>
-  <li>Spring, Guice, Apache Commons, Boost, STL</li>
-  <li>Copilot, ChatGPT</li>
-</ul>
-
-</div>
-<div class="column">
-
 <h3>Administration</h3>
 <ul>
   <li>Linux, Windows system administration</li>
@@ -42,6 +29,19 @@ Seasoned IT professional with a broad background in hardware and software system
   <li>Container-based infrastructure with Docker</li>
   <li>Virtualization using Azure</li>
   <li>Apache httpd, Tomcat, Ngnix httpd administration</li>
+</ul>
+
+</div>
+<div class="column">
+
+<h3>Development</h3>
+<ul>
+  <li>Java, Javascript, Typescript, Python, C/C++</li>
+  <li>VSCode, IntelliJ, Maven, cmake</li>
+  <li>Functional, Object-oriented and Data-oriented software design</li>
+  <li>Dependency and feature injection</li>
+  <li>Spring, Guice, Apache Commons, Boost, STL</li>
+  <li>Copilot, ChatGPT</li>
 </ul>
 
 <h3>Operations</h3>
