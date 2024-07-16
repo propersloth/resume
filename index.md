@@ -9,6 +9,8 @@ Seasoned IT professional with a broad background in hardware and software system
 
 ## Skills
 
+<div class="left-column">
+
 ### Administration
 
 * Linux, Windows system administration
@@ -27,6 +29,10 @@ Seasoned IT professional with a broad background in hardware and software system
 * SonarCloud, JMeter
 * Jira, Confluence, Opsgenie
 
+</div>
+
+<div class="right-column">
+
 ### Development
 
 * Java, Javascript, Typescript, Python, C/C++
@@ -42,6 +48,8 @@ Seasoned IT professional with a broad background in hardware and software system
 * Dynamic horizontal and vertical scaling using
 * MySQL, PostgreSQL, Cosmos, Redis and Solr
 * OpenAPI, Swagger, UML
+
+</div>
 
 # Experience
 
