@@ -9,7 +9,7 @@ Seasoned IT professional with a broad background in hardware and software system
 
 ## Competencies
 
-Architecture
+<div class="center"><h3>Architecture</h3></div>
 <ul>
   <li>Multi-region application balancing and high-availability</li>
   <li>Dynamic horizontal and vertical scaling using</li>
@@ -17,7 +17,7 @@ Architecture
   <li>OpenAPI, Swagger, UML</li>
 </ul>
 
-Development
+<div class="center"><h3>Development</h3></div>
 <ul>
   <li>Java, Javascript, Typescript, Python, C/C++</li>
   <li>VSCode, IntelliJ, Maven, cmake</li>
@@ -30,7 +30,7 @@ Development
   </div>
   <div class="column">
 
-Administration
+<div class="center"><h3>Administration</h3></div>
 <ul>
   <li>Linux, Windows system administration</li>
   <li>Bash, Zsh, Perl, PowerShell scripting</li>
@@ -41,7 +41,7 @@ Administration
   <li>Apache httpd, Tomcat, Ngnix httpd administration</li>
 </ul>
 
-Operations
+<div class="center"><h3>Operations</h3></div>
 <ul>
   <li>Continuous Integration and Deployment</li>
   <li>Github Actions, Azure DevOps</li>
