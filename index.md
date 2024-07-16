@@ -21,7 +21,7 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 * TCP/IP Network planning, administration and analysis
 * Distributed authentication with LDAP and AD
 * Container-based infrastructure with Docker
-* Apache, Ngnix httpd administration
+* Apache httpd, Tomcat, Ngnix httpd administration
 
 ### Operations
 
@@ -30,16 +30,19 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 * Azure DevOps
 * Bicep, Azure Resource Templates
 * SonarCloud, JMeter
+* Jira, Confluence, Opsgenie
 
 ### Development
 
 * Java, Javascript, Typescript, Python, C/C++
 * VSCode, IntelliJ, Maven, cmake
-* Functional, Object-oriented and Data-oriented software design.
-* Dependency injection with Spring and Guice
-* Spring, Apache Commons, Boost, STL
+* Functional, Object-oriented and Data-oriented software design
+* Dependency and feature injection
+* Spring, Guice, Apache Commons, Boost, STL
+* Copilot, ChatGPT
 
 ### Architecture
+
 * Multi-region application balancing and high-availability
 * Dynamic horizontal and vertical scaling using
 * MySQL, PostgreSQL, Cosmos, Redis and Solr
