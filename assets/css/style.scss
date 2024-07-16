@@ -12,9 +12,13 @@ div .center {
       justify-content: center;
 }
 
-.certification-logo {
+.certification-logo-left {
     height: 100px;
-    padding-left: 25px;
+    padding-right: 10px;
+}
+.certification-logo-right {
+    height: 100px;
+    padding-left: 10px;
 }
 
 .column {
