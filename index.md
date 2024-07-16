@@ -5,11 +5,9 @@ Seasoned IT professional with a broad background in hardware and software system
 
 ## Certifications
 
-* Microsoft Azure Administrator
+Microsoft Azure Administrator
 
 ## Skills
-
-<div class="left-column">
 
 ### Administration
 
@@ -28,10 +26,6 @@ Seasoned IT professional with a broad background in hardware and software system
 * Bicep, Azure Resource Templates
 * SonarCloud, JMeter
 * Jira, Confluence, Opsgenie
-
-</div>
-
-<div class="right-column">
 
 ### Development
 
