@@ -6,7 +6,9 @@ sean.c.odonnell@gmail.com
 
 # Summary
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+Extensive career spanning a wide array of hardware and software systems over multiple technology cycles, from mainframes to cloud-based computing. Diverse experience in many business environments in both the public and private sectors, ranging from small, lean startups to the largest global Fortune 50 corporations. Proven track record of success in high-pressure, high-stakes production environments under rapidly changing technology and business directives.
+
+Deep familiarity with an extensive suite of popular programming languages, operating systems, libraries, and tools. Experienced in agile development methods, iteratively adapting to changing requirements and priorities. Hands-on experience with virtually all roles required in an enterprise IT organization, including system administration, quality assurance, software development, development operations, and solutions architecture.
 
 # Certifications
 
