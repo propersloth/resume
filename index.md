@@ -7,8 +7,8 @@ sean.c.odonnell@gmail.com
 # Summary
 
 * Extensive career spanning a wide array of hardware and software systems over multiple technology cycles, from mainframes to cloud-based computing.
-* Diverse professional experience in both the public and private sectors, ranging from small startups to the largest global Fortune 50 corporations.
-* Proven track record of success in high-stakes environments with rapidly changing requirements under challenging real-world constraints on target. 
+* Diverse professional experience in both the public and private sectors, including small startups to the largest global Fortune 50 corporations across multiple verticals such as finance, manufacturing, legal services and hospitality.
+* Proven track record of success in high-stakes, global-scale IT environments with rapidly changing requirements under challenging real-world constraints. 
 * Holistic operational perspective derived from having succeeded in most essential roles in an enterprise IT organization, including: system administration, quality assurance, software development, development operations, and solutions architecture.
 
 Work Ethic
