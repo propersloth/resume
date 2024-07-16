@@ -6,8 +6,8 @@ Seasoned IT professional with a broad background in hardware and software system
 ## Core Competencies
 <p></p>
 <div class="row">
+  
 <div class="column">
-
 <div class="column-header-left">Architecture</div>
 <ul>
   <li>Microservice-based solutions using Azure Functions and NodeJS</li>
@@ -18,17 +18,16 @@ Seasoned IT professional with a broad background in hardware and software system
   <li>API design and analysis using OpenAPI, Swagger and Apigee X</li>
   <li>IAAS/PAAS/SAAS-oriented solution design</li>
 </ul>
-
 <div class="column-header-left">Operations</div>
 <ul>
   <li>Continuous Integration and Deployment</li>
   <li>Github Actions, Azure DevOps</li>
   <li>Bicep, Azure Resource Templates</li>
   <li>SonarCloud, JMeter</li>
-  <li>Jira, Confluence, Opsgenie</li>
+  <li>Jira, Confluence, Opsgenie and</li>
 </ul>
-
 </div>
+
 <div class="column">
 
 <div class="column-header-right">Development</div>
