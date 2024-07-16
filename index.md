@@ -3,15 +3,6 @@
 
 Seasoned IT professional with a broad background in hardware and software systems, spanning from mainframe to cloud-based computing. Experienced in both public and private sectors, including startups and Fortune 50 companies across various industries like finance, manufacturing, legal services, and hospitality. Proven success in dynamic, global IT environments with complex requirements and constraints. Comprehensive operational insight from roles in system administration, quality assurance, software development, DevOps, and solutions architecture. Committed team player with a strong work ethic, prioritizing team success and productivity.
 
-## Professional Certifications
-
-<h3>
-  <img class="certification-logo-left" src="assets/azure-administrator-associate.png">
-  <img class="certification-logo-right" src="assets/azure-solutions-architect-expert.png">
-</h3>
-
-## Core Competencies
-
 <div class="row">
 <div class="column">
 
