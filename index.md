@@ -1,10 +1,3 @@
-
-sean.c.odonnell@gmail.com
-
-702.525.1701
-
-901 Fremont St. #238 Las Vegas, NV 89101
-
 # Summary
 
 * Extensive career over a wide array of hardware and software systems and multiple technology cycles, spanning the eras of mainframe to cloud-based computing.
