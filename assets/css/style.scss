@@ -14,11 +14,11 @@ div .center {
 
 .certification-logo-left {
     height: 100px;
-    padding-right: 10px;
+    margin-right: 10px;
 }
 .certification-logo-right {
     height: 100px;
-    padding-left: 10px;
+    margin-left: 10px;
 }
 
 .column {
@@ -38,4 +38,6 @@ div .center {
     text-align: center;
     background-color: #159957;
     background-image: linear-gradient(120deg, #155799, #159957);
+    padding-left: 10px;
+    padding-right: 10px;
 }
