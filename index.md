@@ -1,8 +1,6 @@
 
 # Sean Corbett O'Donnell
 
-#### Software Developer
-
 sean.c.odonnell@gmail.com
 
 (702) 525-1701
