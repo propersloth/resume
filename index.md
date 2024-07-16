@@ -1,4 +1,4 @@
-<div class="contact">sean.c.odonnell@gmail.com</div>
+<div class="contact">[sean.c.odonnell@gmail.com](mailto:sean.c.odonnell@gmail.com)</div>
 <div class="contact">702.525.1701</div>
 <div class="contact">901 Fremont St. #238 Las Vegas, NV 89101</div>
 
