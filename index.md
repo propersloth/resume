@@ -10,7 +10,7 @@
 * Diverse professional experience in both the public and private sectors, including small startups to the largest global Fortune 50 corporations across multiple verticals such as finance, manufacturing, legal services and hospitality.
 * Proven track record of success in high-stakes, global-scale IT environments with rapidly changing requirements under challenging real-world constraints. 
 * Holistic operational perspective having filled most essential roles in an enterprise IT organization, including: system administration, quality assurance, software development, development operations, and solutions architecture.
-* Dedicated team member [expand].
+* Dedicated team member with a strong work ethic who can be relied upon to put team success and productivity above pride or personalities.
 
 # Certifications
 
