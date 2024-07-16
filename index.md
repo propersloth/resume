@@ -27,7 +27,7 @@ Development
   * Copilot, ChatGPT
 
   </div>
-  <div class="column>
+  <div class="column">
 
 Administration
   * Linux, Windows system administration
